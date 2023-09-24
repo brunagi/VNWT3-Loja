@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header {
+    border: solid pink;
+    height: 130px;
+    background-color: pink;
+}
+
+li {
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 140px;
+    margin-top: 30px;
+    color: rgb(119, 0, 255);
+}
+
+div {
+    display: inline-block;
+   
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.urso {
+    height: 300px;
+}
+
+.cachorro{
+    width: 340px;
+    height: 290px;
+}
+
+.gato{
+    height: 290px;
+}
+
+.selva{
+    height: 290px;
+    width: 320px;
+}
+
+footer{
+    color: rgb(119, 0, 255);
+    border: solid pink;
+    background-color: pink;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+
+h1{
+    margin-left: 20px;
+
+}
+
+.cadastro{
+    padding-left: 20px;
+}
+
+.nomeClass{
+    margin-left: 40px;
+}
+
+.valorClass{
+    margin-left: 120px;
+}
+
+.botaoClass{
+    margin-left: 100px;
+}
+
+.coresClass{
+    margin-left: 30px;
+}
